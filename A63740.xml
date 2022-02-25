@@ -1,0 +1,278 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true relation of what has passed between the English company trading to the East-Indies, and the governor and company of merchants of London trading into the East-Indies touching an agreement between both companies: together with some remarks thereon.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A63740</idno>
+            <idno type="STC">Wing T3079</idno>
+            <idno type="STC">ESTC R220928</idno>
+            <idno type="EEBO-CITATION">99832312</idno>
+            <idno type="PROQUEST">99832312</idno>
+            <idno type="VID">36784</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A63740)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 36784)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2139:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true relation of what has passed between the English company trading to the East-Indies, and the governor and company of merchants of London trading into the East-Indies touching an agreement between both companies: together with some remarks thereon.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1698]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Cropped at head.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>East India Company --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="document">
+            <pb n="1" facs="tcp:36784:1" rendition="simple:additions"/>
+            <head>A True Relation of what has paſſed between the <hi>Engliſh Company</hi> Trading to the <hi>Eaſt-Indies,</hi> and the Go<g ref="char:EOLhyphen"/>vernor and Company of Merchants of <hi>London</hi> Trading into the <hi>Eaſt-Indies,</hi> touching an Agreement between both Companies: Together with ſome Remarks thereon.</head>
+            <div type="part">
+               <head>At a Court of <hi>Directors</hi> for the <hi>Engliſh Company</hi> Trading to the <hi>Eaſt-Indies,</hi> held the 8th of <hi>November, 1698.</hi>
+               </head>
+               <p>UPON a Propoſal then made by <hi>Thomas Papillon</hi> 
+                  <abbr>Eſq</abbr> That an Accommodation might be ſet on Foot between this Company and the Old <hi>Eaſt-India</hi> Company.<note place="margin">Nov. <hi>8.</hi>
+                  </note>
+               </p>
+               <p>The Court thank'd him for his Trouble, and told him, That they had a Diſpoſition to agree with the Old Company upon reaſonable Terms, and deſired to know what Propoſals the Old Company would make, which being made by Perſons duly empow<g ref="char:EOLhyphen"/>er'd thereunto, this Court would then endeavour to get a full Authority to Treat with them in order to attain a happy Concluſion.</p>
+               <p>And on the 17th of the ſame Month,<note place="margin">Nov. <hi>17.</hi>
+                  </note> the ſaid Anſwer was Read and Approved at a General Court holden for the ſaid Engliſh Company.</p>
+            </div>
+            <div type="part">
+               <head>At a Court of <hi>Directors,</hi> held the 17th of <hi>January, 1698.</hi>
+               </head>
+               <p>Sir <hi>William Hedges,</hi> and Sir <hi>John Lethieullier,</hi> from the Old Company,<note place="margin">Jan. <hi>17.</hi>
+                  </note> acquainted the Court that Mr. <hi>Charles Blunt</hi> a Member of this Company, had brought to them a Copy of the Anſwer given by this Court to Mr. <hi>Papillon,</hi> which they ſaid they had Commu<g ref="char:EOLhyphen"/>nicated to their Court, and that by their Order they delivered a Copy of the Reſolu<g ref="char:EOLhyphen"/>tion of their General Court in two Papers, both of the ſame Tenor and Contents, <hi>viz.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>At a General Court of <hi>Adventurers,</hi> holden the 13th Day of <hi>January, 1698.</hi>
+               </head>
+               <p>
+                  <hi>Reſolved,</hi> That it is the Opinion of this Court, That they are willing to Join in a Coalition, with the Subſcribers to the Two Millions: Provided it can be done on Safe, Juſt, and Reaſonable Terms.</p>
+               <p>To which Meſſage the Chairman, by Order of the Court, made Anſwer;</p>
+               <p>Gentlemen,</p>
+               <p>
+                  <hi>This Court was upon riſing when you were pleaſed to bring in theſe two Papers, but they will call a Court on purpoſe to Weigh and Debate their Contents.</hi>
+               </p>
+               <p>And accordingly on the 23d of <hi>January</hi> a Court of <hi>Directors</hi> was Summoned for that purpoſe,<note place="margin">Jan. <hi>23.</hi>
+                  </note> where it was</p>
+               <p>
+                  <hi>Reſolved,</hi> That the Anſwer to Mr. <hi>Papillon</hi> of the 8th of <hi>November</hi> laſt, which was Read and Approved at a General Court of this Company the 17th of the ſame Month, be ſent and delivered to the Governor and Company of Merchants of <hi>London</hi> Trading into the <hi>Eaſt-Indies,</hi> whereby it does appear, that this Company is willing to receive ſuch Propoſals as are Safe and Reaſonable.</p>
+               <p>And they Ordered that the ſaid Reſolution ſhould be carried and delivered in Writing, to the Old <hi>Eaſt-India</hi> Company, on <hi>Wedneſday</hi> then following, by Sir <hi>Streynſham Maſter</hi> and Sir <hi>James Bateman,</hi> two of their Members.</p>
+            </div>
+            <div type="part">
+               <pb n="2" facs="tcp:36784:2"/>
+               <head>At a Court of <hi>Directors,</hi> held the 25th of <hi>January.</hi>
+               </head>
+               <p>Sir <hi>Streynſham Maſter</hi> Reported,<note place="margin">Jan. <hi>25.</hi>
+                  </note> That he and Sir <hi>James Bateman</hi> had carried the Re<g ref="char:EOLhyphen"/>ſolution of this Court of the 23d Inſtant, to the Court of Committees of the Old <hi>Eaſt-India</hi> Company, and that the ſame was Read in their Preſence, and then they with<g ref="char:EOLhyphen"/>drew, and having ſtaid without ſome time, Sir <hi>William Gore</hi> and Sir <hi>Samuel Daſhwood,</hi> two of the Members of the Court, came out and acquainted them, That they had no<g ref="char:EOLhyphen"/>thing further to ſay at preſent.</p>
+            </div>
+            <div type="part">
+               <head>At a General Court of the Members of the <hi>Engliſh Company</hi> Trading to the <hi>Eaſt-Indies,</hi> held the 2d of <hi>February, 1698.</hi>
+               </head>
+               <p>What had paſs'd between both Companies being Communicated to them,<note place="margin">Feb. <hi>2.</hi>
+                  </note> they came to the following Reſolution, <hi>viz.</hi>
+               </p>
+               <p>
+                  <hi>Reſolved,</hi>
+               </p>
+               <p>That this Court does incline to an Agreement with the Governor and Company of Merchants of <hi>London</hi> Trading into the <hi>East-Indies,</hi> upon Safe, Juſt, and Reaſonable Terms.</p>
+               <p>And they ordered, That the ſaid Reſolution be carried and delivered to the Ordina<g ref="char:EOLhyphen"/>ry Committee, or Grand Committee of the Governor and Company of Merchants of <hi>London</hi> Trading into the <hi>East-Indies,</hi> by Sir <hi>Streynſham Maſter</hi> and Sir <hi>James Bateman.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>At a Court of <hi>Directors</hi> held the 3d of <hi>Feb. 1698.</hi>
+               </head>
+               <p>Sir <hi>Streynſham Maſter</hi> reported,<note place="margin">Feb. <hi>3.</hi>
+                  </note> That Sir <hi>James Bateman</hi> and he had (according to the Order of the General Court) been this day at the Court of Committees of the Go<g ref="char:EOLhyphen"/>vernor and Company of Merchants of <hi>London</hi> Trading to the <hi>East-Indies,</hi> and had de<g ref="char:EOLhyphen"/>livered the Reſolution of the ſaid General Court of this Company held yeſterday, to the ſaid Court of Committees, which was there Read, and the Governor acquainted them, That if this Court would meet to morrow, they would then ſend an Anſwer in Writing by Members of their own Court.</p>
+               <p>
+                  <hi>Ordered,</hi>
+               </p>
+               <p>That a Court be Summoned to morrow Morning, to receive the ſaid Anſwer.</p>
+               <p>And accordingly a Court of <hi>Directors</hi> was held the 4th of <hi>February,</hi>
+                  <note place="margin">Feb. <hi>4.</hi>
+                  </note> when the Anſwer reported to the General Court as hereunder, was brought to them; whereupon they Re<g ref="char:EOLhyphen"/>ſolved to call a General Court on <hi>Tueſday</hi> then next following.</p>
+            </div>
+            <div type="part">
+               <head>A General Court was accordingly held <hi>Febr. 2. 1698.</hi>
+                  <note place="margin">Feb. <hi>7.</hi>
+                  </note>
+               </head>
+               <p>And the Chairman acquainted them, that Sir <hi>Streynſham Maſter,</hi> and Sir <hi>James Bateman</hi> had on Friday the 3d. of <hi>February</hi> Inſtant, delivered the Reſolution of this Court of the 2d. of <hi>Feb.</hi> and in Anſwer thereunto the Court of Directors did on Saturday laſt receive a Paper by the hands of Sir <hi>William Pritchard</hi> and Sir <hi>Samuel Daſhwood,</hi> in the following words.</p>
+            </div>
+            <div type="part">
+               <head>The 3d of February <hi>1698.</hi> At a meeting of the Grand Committee of <hi>52.</hi> appointed by the General Court of the Governor and Company of Merchants of <hi>London,</hi> Trading to the <hi>Eaſt-Indies.</hi>
+               </head>
+               <p>Whereas a Reſolution from the General Court of the Members of the <hi>Engliſh</hi> Compa<g ref="char:EOLhyphen"/>ny Trading to the <hi>Eaſt-Indies,</hi> holden the 2d. Inſtant, was brought by Sir <hi>Streynſham Maſter,</hi> and Sir <hi>James Bateman</hi> to this Committee in <hi>Haec verba, viz.</hi>
+               </p>
+               <p>
+                  <hi>Reſolved,</hi>
+               </p>
+               <p>That this Court does incline to an Agreement with the Governor and Company of Merchants of <hi>London</hi> Trading to the <hi>Eaſt-Indies,</hi> upon Safe, Juſt and Reaſonable Terms. The ſame being debated and conſidered;</p>
+               <p>
+                  <hi>Reſolved,</hi>
+               </p>
+               <p>That a General Court be called on Tueſday Morning next, and that this Com<g ref="char:EOLhyphen"/>mittee will then propoſe to them the Authorizing and Impowering Seven Perſons to Treat, purſuant to the Reſolutions of both Companies; <hi>Provided</hi> The Court of Dire<g ref="char:EOLhyphen"/>ctors of the ſaid <hi>Engliſh</hi> Company do call a General Court to meet at the ſame time, and
+<pb n="3" facs="tcp:36784:2"/>propoſe to them the naming the like number of Perſons for the ſame purpoſe.</p>
+               <p>And the Chairman acquainted the Court, that upon receipt of the ſaid Paper, the Court of Directors had called this General Court to communicate the ſame unto them.</p>
+               <p>And then the Court took the ſame into conſideration; and whilſt they were upon the Debate, Sir <hi>Richard Levitt</hi> and Sir <hi>John Lethieullier</hi> brought and delivered to the Court a Paper, which was Read, and is as follows.</p>
+            </div>
+            <div type="part">
+               <head>At a General Court of the Governor and Company of Merchants of <hi>London</hi> Trading into the <hi>Eaſt-Indies,</hi> holden the 7th of <hi>February 1698.</hi>
+               </head>
+               <p>This Court now thought fit to Nominate the Perſons following, <hi>viz.</hi> Sir <hi>William Pritchard</hi> Kt. and Alderman, Sir <hi>Samuel Daſhwood</hi> Kt. and Alderman, Sir <hi>William Langhorn</hi> Bar. Sir <hi>William Gore</hi> Kt. Alderman and Sheriff, <hi>Francis Eyles</hi> 
+                  <abbr>Eſq</abbr> Mr. <hi>William Fawkener,</hi> and <hi>William Hewer</hi> 
+                  <abbr>Eſq</abbr> whom they do Authorize and Empower to Treat with the like number of Perſons to be Appointed by the General Court of the <hi>Engliſh</hi> Company Trading to the <hi>Eaſt-Indies,</hi> purſuant to the Reſolutions of both Companies, and to Report their Proceedings to this Court in Ten days, or ſooner.</p>
+               <p>Then the Court continued the Debate, and came to the following Reſolutions, <hi>Viz.</hi>
+               </p>
+               <p>
+                  <hi>Reſolved,</hi>
+               </p>
+               <p>That on <hi>Tueſday</hi> the 14th of this Inſtant <hi>February,</hi> this Court will Chooſe by the Ballot Twenty four Perſons out of the General Court, to be added to the Court of Directors to be a Grand Committee, in order to a Treaty to be ſet on foot with the Governor and Company of Merchants of <hi>London</hi> Trading to the <hi>Eaſt-Indies.</hi>
+               </p>
+               <p>
+                  <hi>Reſolved,</hi>
+               </p>
+               <p>That on <hi>Friday</hi> the 17th of this Inſtant <hi>February,</hi> this Court will Chooſe by the Ballot Seven Perſons out of the ſaid Grand Committee of Forty eight, to Treat with the Seven Perſons nominated by the aforeſaid Governor and Company.</p>
+               <p>And the Court ordered, That a Copy of the ſaid Reſolutions ſhould be carried by Sir <hi>William Scawen</hi> and Sir <hi>Edmond Harriſon,</hi> and deliver'd to the Court or Committee of the Governor and Company of Merchants of <hi>London</hi> Trading to the <hi>Eaſt-Indies.</hi>
+               </p>
+               <p>And the ſame were carried accordingly;<note place="margin">Feb. <hi>9.</hi>
+                  </note> And at a Court of Directors held the 9th of <hi>February</hi> Sir <hi>William Scawen</hi> and Sir <hi>Edmond Harriſon</hi> Reported, That they had de<g ref="char:EOLhyphen"/>livered the ſaid Reſolutions to the Grand Committee of the <hi>Old Eaſt-India Company,</hi> and being withdrawn, and having ſtay'd about an hour and half, they were again call'd in, and a Paper was delivered to them in the Words following, <hi>viz.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>At a Grand Committee of <hi>52</hi> for the <hi>Eaſt-India</hi> Company, holden the 8th of <hi>February 1698.</hi>
+               </head>
+               <p>This Committee taking into Conſideration the Reſolution of the General Court of the Members of the <hi>Engliſh</hi> Company Trading to the <hi>Eaſt-Indies,</hi> held the 7th Inſtant, this Day brought them by Sir <hi>William Scawen</hi> and Sir <hi>Edmond Harriſon,</hi> do return for Anſwer, That they are of Opinion the ſaid Reſolution is not a Satisfactory Anſwer to the Paper ſent by this Company on <hi>Tueſday laſt;</hi> but they will lay the ſame before the next General Court of the Governour and Company of Merchants of <hi>London</hi> Trading into the <hi>Eaſt-Indies.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>At a General Court of the <hi>Engliſh</hi> Company Trading to the <hi>Eaſt-Indies,</hi> held <hi>Feb. 21. 1698.</hi>
+               </head>
+               <p>
+                  <hi>Reſolved,</hi>
+               </p>
+               <p>To ſend a Meſſage to the Old <hi>Eaſt-India</hi> Company, to acquaint them,<note place="margin">Feb. <hi>21.</hi>
+                  </note> That this Court have Choſen Sir <hi>William Scawen,</hi> Sir <hi>Streynſham Maſter,</hi> Sir <hi>Edumund Harriſon, Samuel Shep<g ref="char:EOLhyphen"/>heard</hi> 
+                  <abbr>Eſq</abbr> 
+                  <hi>Gilbert Heathcote</hi> 
+                  <abbr>Eſq</abbr> 
+                  <hi>Brook Bridges</hi> 
+                  <abbr>Eſq</abbr> and Mr. <hi>Nathanael Gould,</hi> to Treat with the Seven Perſons nominated by the Governour and Company of Merchants of <hi>London</hi> Trading into the <hi>Eaſt-Indies,</hi> in order to an Agreement. And Sir <hi>Theodore Janſſen</hi> and Alderman <hi>Withers</hi> were ordered to carry the ſaid Meſſage the firſt Court-Day.</p>
+               <pb n="4" facs="tcp:36784:3"/>
+               <p>Whereupon the Secretary ſent to the Old <hi>Eaſt-India</hi> Houſe, to know when there would be a Court; and was anſwered, That there would be one on <hi>Wedneſday,</hi> the 22d of <hi>February.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>At a Court of Directors, held <hi>Feb. 22. 1698.</hi>
+               </head>
+               <p>Sir <hi>Theodore Janſſen</hi> reported,<note place="margin">
+                     <hi>Feb.</hi> 22.</note> That Alderman <hi>Withers</hi> and he had this Day been at the <hi>Eaſt India Houſe,</hi> to deliver the Meſſage ordered by the General Court; and that Mr. <hi>Dubois</hi> came out, and told them, That there was no Court there that Day, nor would there be any that he knew of till <hi>Friday</hi> next, their uſual Court-Days being <hi>Wed<g ref="char:EOLhyphen"/>neſdays</hi> and <hi>Fridays.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>At a Court of Directors, held <hi>Feb. 24. 1698.</hi>
+               </head>
+               <p>Sir <hi>Theodore Janſſen</hi> informed the Court,<note place="margin">Feb. <hi>24.</hi>
+                  </note> That he with Alderman <hi>Withers</hi> were this Day again at the Old <hi>Eaſt-India</hi> Houſe, and were informed, that there was no Court there: Whereupon they deſired to ſpeak with the Secretary, who ſent word, That he was not well, and therefore deſired to be excuſed; but Mr. <hi>Woolley,</hi> the Under-Secretary, acquainted them, That the Gentlemen went away as they came, and that there was not a Court; whereupon they ſaid they had been there twice, and being diſappointed, they deſired he would ſend word when a Court would be held there. To which he anſwer<g ref="char:EOLhyphen"/>ed, he would ſpeak to the Governor, and if he gave him Leave, he would do it.</p>
+            </div>
+            <div type="part">
+               <head>The Remarks on what has paſſed between the Two Companies.</head>
+               <p>THE Anſwer given to Mr. <hi>Papillon</hi> the 8th of <hi>November,</hi> and afterwards Read and Approved in a general Court, ſhewed a forward Diſpoſition in the <hi>Engliſh</hi> Company to an Agreement with the Old Company.</p>
+               <p>Notwithſtanding there appeared in the Old Company no Diſpoſition on their Part to<g ref="char:EOLhyphen"/>wards an Agreement till above Two Months after, to gain time (as may be reaſonably ſuppoſed) for the Diſpatch of their Ships.</p>
+               <p>Then they ſent their Reſolution to join in a Coalition, <hi>&amp;c.</hi> In Anſwer to which the Court of Directors of the <hi>Engliſh</hi> Company the 23d of <hi>January,</hi> ſent a Repetition of the Anſwer given ſo long before to Mr. <hi>Papillon;</hi> Adding, That it did thereby appear, that the <hi>Engliſh</hi> Company was willing to receive ſuch Propoſals as were Safe and Reaſon<g ref="char:EOLhyphen"/>able.</p>
+               <p>What had paſſed between both Company's being Communicated the 2d of <hi>February</hi> to the General Court of the <hi>Engliſh</hi> Company, they declared they inclined to an Agree<g ref="char:EOLhyphen"/>ment with the Old Company; Which Reſolution was ſent to the Old Company the day following.</p>
+               <p>And the next day a Court of Directors was called on purpoſe to receive an Anſwer thereunto, which they were told would then be ſent to them, and was accordingly ſent, being a Copy of the Reſolution of their Court.</p>
+               <p>Whereupon the <hi>Engliſh</hi> Company did Summon a General Court accordingly, which Court appointed that 24 Perſons ſhould be choſen by way of Ballot, and added to the 24 Directors, to be a Grand Committee for ſetting a Treaty on foot, and did then alſo appoint, that 7 Perſons ſhould be choſen by way of Ballot to Meet and Treat with the 7 Perſons nominated by the Old Company; and the <hi>Engliſh</hi> Company the next day ſent to acquaint the Old Company with the ſaid Reſolutions, and did accordingly forthwith prepare and Print a Liſt of all their Adventurers, and gave publick Notice, That on the 14th every Adventurer ſhould bring in his Vote of the 24 Perſons to be choſen; and the next day being the 15th the Scrutineers met, and on the 16th De<g ref="char:EOLhyphen"/>clared on whom the Choice fell; and on the 17th they Balloted for the 7, who were Declared the 18th; all which was performed in as ſhort a time as was poſſible; The ſaid <hi>Engliſh</hi> Company being by their Conſtitution and Charter to make all ſuch Elections by the Ballot.</p>
+               <p>By the whole proceedings of the <hi>Engliſh</hi> Company, and their ſending Two ſeveral times on the uſual Court Days of the Old Company, the Names of the Seven Perſons choſen to Treat with them; it plainly appears, how ready the <hi>Engliſh</hi> Company has been to Treat with the Old Company: notwithſtanding the doubtful Expreſſions in the Re<g ref="char:EOLhyphen"/>ſolution of their General Court to join in a Coalition with the Subſcribers to the Two Millions: and alſo ſuch a Meſſage ſent by them, that the Anſwer of the <hi>Engliſh</hi> Com<g ref="char:EOLhyphen"/>pany was not Satisfactory. And therefore the Reflections of the <hi>Engliſh</hi> Company's ha<g ref="char:EOLhyphen"/>ving Trifled or Delayed, are unjuſtly caſt upon them by the Old Company.</p>
+               <p>Thus Matters ſtood when the Old Company were pleaſed by Petitioning the Honou<g ref="char:EOLhyphen"/>rable Houſe of Commons to break off the Treaty.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
